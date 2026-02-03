@@ -47,7 +47,7 @@ python bot.py
 📈 Статистика (/stats, /submissions)
 
 📁 Структура проекта
-.bash
+...bash
 inside_bot/
 ├── bot.py               # Основная логика бота
 ├── config.py            # Конфигурация
